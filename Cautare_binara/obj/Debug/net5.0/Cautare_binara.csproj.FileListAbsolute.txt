@@ -1,0 +1,16 @@
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.exe
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.deps.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.runtimeconfig.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.runtimeconfig.dev.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\ref\Cautare_binara.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\bin\Debug\net5.0\Cautare_binara.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.csproj.AssemblyReference.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.AssemblyInfoInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.AssemblyInfo.cs
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\ref\Cautare_binara.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_binara\obj\Debug\net5.0\Cautare_binara.genruntimeconfig.cache
