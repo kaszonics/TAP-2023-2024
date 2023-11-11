@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cautare_secventiala/1.0.0": {
+        "runtime": {
+          "Cautare_secventiala.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cautare_secventiala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

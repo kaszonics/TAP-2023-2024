@@ -1,0 +1,15 @@
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.AssemblyInfoInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.AssemblyInfo.cs
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.exe
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.deps.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.runtimeconfig.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.runtimeconfig.dev.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\ref\Cautare_secventiala.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\bin\Debug\net5.0\Cautare_secventiala.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\ref\Cautare_secventiala.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Cautari\Cautare_secventiala\obj\Debug\net5.0\Cautare_secventiala.genruntimeconfig.cache
