@@ -1,0 +1,16 @@
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.exe
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.deps.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.runtimeconfig.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.runtimeconfig.dev.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\ref\Select_Sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\bin\Debug\net5.0\Select_Sort_VB.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.vbproj.AssemblyReference.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.AssemblyInfoInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.AssemblyInfo.vb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.vbproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\ref\Select_Sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Select_Sort_VB\obj\Debug\net5.0\Select_Sort_VB.genruntimeconfig.cache
