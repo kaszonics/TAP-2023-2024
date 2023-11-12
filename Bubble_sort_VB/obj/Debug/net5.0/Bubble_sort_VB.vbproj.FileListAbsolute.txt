@@ -1,0 +1,16 @@
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.exe
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.deps.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.runtimeconfig.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.runtimeconfig.dev.json
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\ref\Bubble_sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\bin\Debug\net5.0\Bubble_sort_VB.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.vbproj.AssemblyReference.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.AssemblyInfoInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.AssemblyInfo.vb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.vbproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\ref\Bubble_sort_VB.dll
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.pdb
+D:\Facultate\Anul II\TAP - Tehnologii avansate de programare\Sortari\Bubble_sort_VB\obj\Debug\net5.0\Bubble_sort_VB.genruntimeconfig.cache
